@@ -15,5 +15,6 @@ null,
 {"id":13,"expanded":true,"name":"salle de controle","order":12,"parentId":8,"scrollX":832,"scrollY":640},
 {"id":14,"expanded":false,"name":"monde_plage","order":16,"parentId":0,"scrollX":816,"scrollY":640},
 {"id":15,"expanded":false,"name":"espace","order":13,"parentId":8,"scrollX":1652,"scrollY":1280},
-{"id":16,"expanded":false,"name":"iglou","order":5,"parentId":7,"scrollX":691,"scrollY":438.5}
+{"id":16,"expanded":false,"name":"iglou","order":5,"parentId":7,"scrollX":691,"scrollY":438.5},
+{"id":17,"expanded":false,"name":"chateau des deux iles","order":14,"parentId":10,"scrollX":499,"scrollY":433.5}
 ]
