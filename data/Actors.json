@@ -2,6 +2,6 @@
 null,
 {"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor2_2","characterIndex":0,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Patou","nickname":"Patouche","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Léa","characterIndex":0,"characterName":"Stella","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Stella","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stella","nickname":"Stésté","note":"","profile":""}
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"darold","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"darold","traits":[],"initialLevel":1,"maxLevel":99,"name":"Darold","nickname":"","note":"","profile":""}
 ]
