@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"salle_couronne","order":2,"parentId":3,"scrollX":712,"scrollY":574.6666666666666},
+{"id":1,"expanded":false,"name":"salle_couronne","order":2,"parentId":3,"scrollX":704,"scrollY":543},
 {"id":2,"expanded":false,"name":"chateau_futur","order":3,"parentId":3,"scrollX":1017.7777777777778,"scrollY":9652},
 {"id":3,"expanded":true,"name":"ville_futur","order":1,"parentId":0,"scrollX":2264,"scrollY":870.6666666666666},
 {"id":4,"expanded":false,"name":"danger_1","order":5,"parentId":0,"scrollX":920,"scrollY":852},
@@ -13,6 +13,6 @@ null,
 {"id":11,"expanded":false,"name":"monde_animaux","order":14,"parentId":0,"scrollX":816,"scrollY":1144},
 {"id":12,"expanded":false,"name":"aire_aterrissage","order":4,"parentId":3,"scrollX":1448,"scrollY":2004},
 {"id":13,"expanded":true,"name":"salle de controle","order":11,"parentId":8,"scrollX":712,"scrollY":406.6666666666667},
-{"id":14,"expanded":false,"name":"monde_plage","order":15,"parentId":0,"scrollX":816,"scrollY":640},
+{"id":14,"expanded":false,"name":"monde_plage","order":15,"parentId":0,"scrollX":795,"scrollY":302},
 {"id":15,"expanded":false,"name":"espace","order":12,"parentId":8,"scrollX":1778.6666666666667,"scrollY":872}
 ]
