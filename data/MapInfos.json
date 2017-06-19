@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"salle_couronne","order":2,"parentId":3,"scrollX":709.3333333333334,"scrollY":470.6666666666667},
+{"id":1,"expanded":true,"name":"salle_couronne","order":2,"parentId":3,"scrollX":709.3333333333334,"scrollY":460},
 {"id":2,"expanded":false,"name":"chateau_futur","order":6,"parentId":3,"scrollX":949,"scrollY":9652.5},
 {"id":3,"expanded":true,"name":"ville_futur","order":1,"parentId":0,"scrollX":2264,"scrollY":866.6666666666666},
 {"id":4,"expanded":false,"name":"danger_1","order":8,"parentId":0,"scrollX":920,"scrollY":852},
