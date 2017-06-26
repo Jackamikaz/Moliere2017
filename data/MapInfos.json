@@ -23,5 +23,6 @@ null,
 {"id":21,"expanded":true,"name":"chateau gentils","order":11,"parentId":10,"scrollX":559.2,"scrollY":357.2},
 {"id":22,"expanded":false,"name":"Magasin d'Armes","order":6,"parentId":7,"scrollX":559.2,"scrollY":357.2},
 {"id":23,"expanded":true,"name":"Château Démoniaque","order":7,"parentId":7,"scrollX":888.8,"scrollY":1089.2},
-{"id":24,"expanded":false,"name":"Château Démoniaque 2","order":8,"parentId":22,"scrollX":1128.8,"scrollY":1937.2}
+{"id":24,"expanded":false,"name":"Château Démoniaque 2","order":8,"parentId":22,"scrollX":1128.8,"scrollY":1937.2},
+{"id":25,"expanded":true,"name":"MAP021","order":25,"parentId":19,"scrollX":844,"scrollY":297}
 ]
