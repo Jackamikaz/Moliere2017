@@ -3,5 +3,6 @@
 var $plugins =
 [
 {"name":"GALV_CamControl","status":true,"description":"Allows greater control over where the game camera is focused. View HELP for plugin commands.","parameters":{"Tile Size":"48"}},
-{"name":"TDDP_BindPicturesToMap","status":true,"description":"1.0.7 Plugin Commands for binding pictures to the map and/or changing what layer they're drawn on.","parameters":{}}
+{"name":"TDDP_BindPicturesToMap","status":true,"description":"1.0.7 Plugin Commands for binding pictures to the map and/or changing what layer they're drawn on.","parameters":{}},
+{"name":"GALV_RollCredits","status":true,"description":"(v.1.4) A plugin that calls a new scene to display scrolling information located in an external text file.","parameters":{"Folder":"data","Skippable":"true","Block Skipping":"true","Title Menu":"Credits","Title Credits Music":"Theme6"}}
 ];
