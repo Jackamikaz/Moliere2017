@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_2","characterIndex":0,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Patou","nickname":"Patouche","note":"","profile":""},
+{"id":3,"battlerName":"Léa","characterIndex":0,"characterName":"Stella","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Stella","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stella","nickname":"Stésté","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"darold","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"darold","traits":[],"initialLevel":1,"maxLevel":99,"name":"Darold","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"emma","characterIndex":0,"characterName":"emma","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Ema","traits":[],"initialLevel":1,"maxLevel":99,"name":"Emma","nickname":"","note":"","profile":"Emma est une jeune fille de 18 ans elle avais échaper\nau monstre du volcan."},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"beau gosse","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bogoss","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"li","characterIndex":0,"characterName":"li","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"li","traits":[],"initialLevel":1,"maxLevel":99,"name":"Li","nickname":"","note":"","profile":""}
+]

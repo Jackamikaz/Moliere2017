@@ -1,0 +1,10 @@
+Planete finale
+   - image aperçu depuis l'espace
+   - intégration dans l'espace quand toutes les planètes sont résolues
+
+Fusionner les mondes de neige édités par Camila et Nael
+En plus : faire une version sans lave
+
+Vérifier que la princesse du monde les deux iles rentre bien au chateau
+
+Rajouter des effets météo
