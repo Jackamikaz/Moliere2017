@@ -1,4 +1,4 @@
-<block:-1,-1,10,10,offbot,center,titre>
+﻿<block:-1,-1,10,10,offbot,center,titre>
 Les gardiens du climat
 
 \c[2]Createurs
@@ -41,5 +41,6 @@ LEO LAGRANGE
 
 
 LA FIN
+LE CLIMAT A ETE RESTAURE GRACE A VOUS
 MERCI D'AVOIR JOUE
 </block>
